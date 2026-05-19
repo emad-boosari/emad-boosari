@@ -11,6 +11,8 @@ My interests mainly revolve around:
 - quantum optimization
 - quantum machine learning
 
+# 📝 Research
+
 <!--
 **emad-boosari/emad-boosari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
