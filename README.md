@@ -1,4 +1,13 @@
 ## Hi there 👋
+I am Emad Rezaei Fard Boosari, a physicist working in quantum computing, quantum information, and scientific computing.
+
+My interests mainly revolve around:
+- quantum algorithms
+- quantum state preparation
+- Hamiltonian simulation
+- wavelet-based quantum encoding
+- quantum circuit optimization
+- signal processing for quantum systems
 
 <!--
 **emad-boosari/emad-boosari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
