@@ -20,7 +20,10 @@ More specifically, I am interested in combining classical signal processing meth
 Related preprints and publications are available on my Google Scholar profile.
 
 
-## 
+## 🌐 Connect With Me
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/emad-rezaei-fard-boosari-5432a898/)
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=QLpfQ0EAAAAJ&hl=en)
 
 
 
