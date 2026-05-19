@@ -11,7 +11,22 @@ My interests mainly revolve around:
 - quantum optimization
 - quantum machine learning
 
-# 📝 Research
+## 🔬 Research
+
+At the moment, my research focuses on studying the impact of data compression techniques on different aspects of quantum algorithms, particularly quantum state preparation.
+
+More specifically, I am interested in combining classical signal processing methods, such as wavelet-based compression, with efficient quantum data representations and quantum circuit design.
+
+Related preprints and publications are available on my Google Scholar profile.
+
+
+## 
+
+
+
+
+
+
 
 <!--
 **emad-boosari/emad-boosari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
