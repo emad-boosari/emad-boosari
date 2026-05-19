@@ -17,13 +17,13 @@ At the moment, my research focuses on studying the impact of data compression te
 
 More specifically, I am interested in combining classical signal processing methods, such as wavelet-based compression, with efficient quantum data representations and quantum circuit design.
 
-Related preprints and publications are available on my Google Scholar profile.
+Related preprints and publications are available on my [Google Scholar](https://scholar.google.com/citations?user=QLpfQ0EAAAAJ&hl=en) profile.
 
 
 ## 🌐 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/emad-rezaei-fard-boosari-5432a898/)
-- [Google Scholar](https://scholar.google.com/citations?user=QLpfQ0EAAAAJ&hl=en)
+- [Researchergate](https://www.researchgate.net/profile/Emad-Rezaei-Fard-Boosari?ev=hdr_xprf)
 
 
 
