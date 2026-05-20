@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=emad-boosari&color=blueviolet)
+## ![](https://komarev.com/ghpvc/?username=emad-boosari&color=blueviolet)
 ## Hi there 👋
 I am Emad Rezaei Fard Boosari (He/Him), a physicist with a PhD in Physics whose research focuses on quantum computing, and quantum information.
 
