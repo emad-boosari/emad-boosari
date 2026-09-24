@@ -7,10 +7,10 @@ I am Emad Rezaei Fard Boosari (He/Him), a physicist with a PhD in Physics whose 
 My research interests include:
 - quantum algorithms
 - quantum optimization
-- Hamiltonian simulation
 - quantum machine learning
-- quantum neural networks
+- Hamiltonian simulation
 - quantum state preparation
+- Hybrid algorithms
 
 ## 🔬 Research
 
