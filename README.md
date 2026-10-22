@@ -29,6 +29,7 @@ Related preprints and publications are available on my [Google Scholar](https://
 - [LinkedIn](https://www.linkedin.com/in/emad-rezaei-fard-boosari-5432a898/)
 - [ResearchGate](https://www.researchgate.net/profile/Emad-Rezaei-Fard-Boosari?ev=hdr_xprf)
 - [Instagram](https://www.instagram.com/qgorithm/)
+- [Youtube] (https://www.youtube.com/@qgorithm)
 
 
 
